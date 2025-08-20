@@ -1,1 +1,9 @@
 2025-08-20 07:47:28, MOVE, v:1, k:roupa, mode:DOWN
+2025-08-20 07:53:36, MOVE, v:1, k:roupa, mode:PICK
+2025-08-20 07:53:37, EXEC, v:1, k:roupa, mode:FREE, size:52
+2025-08-20 07:54:35, EXEC, v:1, k:roupa, mode:FULL, rate:0
+2025-08-20 07:54:59, EXEC, v:1, k:roupa, mode:FULL, rate:100, size:52
+2025-08-20 07:58:21, EXEC, v:1, k:roupa, mode:FREE, size:55
+2025-08-20 07:58:42, EXEC, v:1, k:roupa, mode:FULL, rate:100
+2025-08-20 07:58:44, MOVE, v:1, k:roupa, mode:BACK
+2025-08-20 07:58:46, MOVE, v:1, k:relogio, mode:DOWN
