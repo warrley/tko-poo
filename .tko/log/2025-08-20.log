@@ -7,3 +7,12 @@
 2025-08-20 07:58:42, EXEC, v:1, k:roupa, mode:FULL, rate:100
 2025-08-20 07:58:44, MOVE, v:1, k:roupa, mode:BACK
 2025-08-20 07:58:46, MOVE, v:1, k:relogio, mode:DOWN
+2025-08-20 08:17:42, MOVE, v:1, k:relogio, mode:PICK
+2025-08-20 08:17:43, EXEC, v:1, k:relogio, mode:FREE, size:122
+2025-08-20 08:24:02, EXEC, v:1, k:relogio, mode:FULL, rate:76, size:128
+2025-08-20 08:26:11, EXEC, v:1, k:relogio, mode:FULL, rate:76, size:128
+2025-08-20 08:27:00, EXEC, v:1, k:relogio, mode:FULL, rate:76, size:128
+2025-08-20 08:35:37, EXEC, v:1, k:relogio, mode:FULL, rate:92, size:126
+2025-08-20 08:36:31, EXEC, v:1, k:relogio, mode:FULL, rate:100, size:126
+2025-08-20 08:37:09, EXEC, v:1, k:relogio, mode:FULL, rate:100, size:121
+2025-08-20 08:37:11, MOVE, v:1, k:relogio, mode:BACK

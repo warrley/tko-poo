@@ -17,10 +17,12 @@ tasks:
   carro: '{rate:100}'
   calculadora: '{rate:81}'
   enxugar: '{rate:100}'
+  roupa: '{rate:100}'
+  relogio: '{rate:100}'
 flags:
   quests: 0
   tracks: 0
   tasks: 2
   graph: 1
 lang: java
-index: roupa
+index: relogio
