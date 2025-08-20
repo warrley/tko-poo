@@ -1,0 +1,26 @@
+remote: https://github.com/qxcodepoo/arcade/blob/master/Readme.md
+version: 0.0.1
+database: database
+expanded:
+- primeiras-classes
+- modificadores-de-acesso
+- conteúdo-extra
+- campanha-principal
+- agregação-simples
+- arraylist-i---listas
+- arraylist-ii---arrays-de-null
+- arraylist-iii---crud-composição-e-enum
+- crud-com-mapas-e-vetores
+- herança-i
+tasks:
+  animal: '{rate:100}'
+  carro: '{rate:100}'
+  calculadora: '{rate:81}'
+  enxugar: '{rate:100}'
+flags:
+  quests: 0
+  tracks: 0
+  tasks: 2
+  graph: 1
+lang: java
+index: roupa
