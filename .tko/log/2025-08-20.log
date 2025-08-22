@@ -16,3 +16,9 @@
 2025-08-20 08:36:31, EXEC, v:1, k:relogio, mode:FULL, rate:100, size:126
 2025-08-20 08:37:09, EXEC, v:1, k:relogio, mode:FULL, rate:100, size:121
 2025-08-20 08:37:11, MOVE, v:1, k:relogio, mode:BACK
+2025-08-20 15:14:16, MOVE, v:1, k:notebook, mode:DOWN
+2025-08-20 15:29:06, MOVE, v:1, k:notebook, mode:PICK
+2025-08-20 15:29:06, EXEC, v:1, k:notebook, mode:FREE, size:55
+2025-08-20 15:30:32, EXEC, v:1, k:notebook, mode:FREE
+2025-08-20 15:31:29, EXEC, v:1, k:notebook, mode:FREE, size:56
+2025-08-20 15:33:14, EXEC, v:1, k:notebook, mode:FREE, size:60
