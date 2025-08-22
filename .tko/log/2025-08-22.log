@@ -1,2 +1,31 @@
 2025-08-22 16:59:42, MOVE, v:1, k:notebook, mode:PICK
 2025-08-22 16:59:45, EXEC, v:1, k:notebook, mode:FREE, size:117
+2025-08-22 17:23:48, MOVE, v:1, k:notebook, mode:PICK
+2025-08-22 17:23:49, EXEC, v:1, k:notebook, mode:LOCK, rate:0, size:160
+2025-08-22 17:23:52, MOVE, v:1, k:notebook, mode:BACK
+2025-08-22 17:23:58, MOVE, v:1, k:motoca, mode:DOWN
+2025-08-22 17:24:44, MOVE, v:1, k:motoca, mode:PICK
+2025-08-22 17:24:45, MOVE, v:1, k:motoca, mode:BACK
+2025-08-22 17:49:49, MOVE, v:1, k:motoca, mode:PICK
+2025-08-22 17:49:50, EXEC, v:1, k:motoca, mode:FREE, size:135
+2025-08-22 17:55:04, MOVE, v:1, k:motoca, mode:PICK
+2025-08-22 17:55:05, EXEC, v:1, k:motoca, mode:FREE, size:147
+2025-08-22 17:58:08, MOVE, v:1, k:motoca, mode:PICK
+2025-08-22 17:58:09, EXEC, v:1, k:motoca, mode:FREE, size:154
+2025-08-22 18:01:00, EXEC, v:1, k:motoca, mode:FULL, rate:33, size:156
+2025-08-22 18:03:33, EXEC, v:1, k:motoca, mode:FREE
+2025-08-22 18:04:13, EXEC, v:1, k:motoca, mode:FREE
+2025-08-22 18:05:37, MOVE, v:1, k:motoca, mode:BACK
+2025-08-22 18:05:38, MOVE, v:1, k:motoca, mode:PICK
+2025-08-22 18:05:40, EXEC, v:1, k:motoca, mode:FULL, rate:33, size:156
+2025-08-22 18:06:03, EXEC, v:1, k:motoca, mode:FULL, rate:33, size:156
+2025-08-22 18:06:15, EXEC, v:1, k:motoca, mode:FULL, rate:33, size:156
+2025-08-22 18:08:17, EXEC, v:1, k:motoca, mode:FULL, rate:40, size:157
+2025-08-22 18:09:12, EXEC, v:1, k:motoca, mode:FULL, rate:40, size:157
+2025-08-22 18:11:47, EXEC, v:1, k:motoca, mode:FREE
+2025-08-22 18:13:02, MOVE, v:1, k:motoca, mode:PICK
+2025-08-22 18:13:03, EXEC, v:1, k:motoca, mode:FREE, size:159
+2025-08-22 18:13:31, EXEC, v:1, k:motoca, mode:FULL, rate:40
+2025-08-22 18:14:44, EXEC, v:1, k:motoca, mode:FREE
+2025-08-22 18:18:00, EXEC, v:1, k:motoca, mode:FULL, rate:40, size:161
+2025-08-22 18:20:18, EXEC, v:1, k:motoca, mode:FULL, rate:100, size:163

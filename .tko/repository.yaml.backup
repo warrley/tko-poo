@@ -24,5 +24,6 @@ flags:
   tracks: 0
   tasks: 2
   graph: 1
+  xray: 0
 lang: java
-index: notebook
+index: motoca
