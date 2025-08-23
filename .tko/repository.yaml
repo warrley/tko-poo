@@ -21,6 +21,7 @@ tasks:
   relogio: '{rate:100}'
   motoca: '{rate:100}'
   grafite: '{rate:100}'
+  motouber: '{rate:100}'
 flags:
   quests: 0
   tracks: 0
@@ -28,4 +29,4 @@ flags:
   graph: 1
   xray: 0
 lang: java
-index: tarifas
+index: tamagotchi
