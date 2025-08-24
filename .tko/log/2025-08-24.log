@@ -1,0 +1,4 @@
+2025-08-24 17:57:38, MOVE, v:1, k:array, mode:DOWN
+2025-08-24 18:02:33, MOVE, v:1, k:array, mode:PICK
+2025-08-24 18:02:33, EXEC, v:1, k:array, mode:FREE, size:10
+2025-08-24 18:08:44, EXEC, v:1, k:array, mode:LOCK, rate:0, size:24
