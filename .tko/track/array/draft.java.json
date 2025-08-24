@@ -7,8 +7,13 @@
         },
         {
             "label": "2025-08-24_18-08-44",
-            "content": "public class draft {\n    public static void main(String args[]) {\n\n        int[] num = new int[5];\n\n        num[0] = 52;\n        num[1] = 100;\n        num[2] = 57;\n        num[3] = 578;\n        num[4] = 02;\n\n        for(int i = 0; i < num.length; i++) {\n            System.out.println(num[i]);\n        }\n        \n        int[] num2 = {52, 100, 57, 587, 0};\n        \n        for(int n:num2) {\n            System.out.println(n);\n        }\n\n    }\n}\n\n",
+            "content": "@@ -1,33 +1,4 @@\n-import java.util.ArrayList;%0A%0A\n publ\n@@ -64,25 +64,8 @@\n  %7B%0A%0A\n-        // Array%0A\n     \n@@ -435,335 +435,8 @@\n  %7D%0A%0A\n-        //ArrayList -%3E addiciona automaticamente, sem se preocupar com o tamanho dele%0A        ArrayList%3CString%3E str = new ArrayList%3CString%3E();%0A        str.add(%22guilherme%22);%0A        str.add(%22warley%22);%0A        str.add(%22brito%22);%0A        str.add(%22farias%22);%0A%0A        for(String s:str) %7B%0A            System.out.println(s);%0A        %7D%0A\n     \n",
             "lines": "24"
+        },
+        {
+            "label": "2025-08-24_18-23-25",
+            "content": "import java.util.ArrayList;\n\npublic class draft {\n    public static void main(String args[]) {\n\n        // Array\n        int[] num = new int[5];\n\n        num[0] = 52;\n        num[1] = 100;\n        num[2] = 57;\n        num[3] = 578;\n        num[4] = 02;\n\n        for(int i = 0; i < num.length; i++) {\n            System.out.println(num[i]);\n        }\n        \n        int[] num2 = {52, 100, 57, 587, 0};\n        \n        for(int n:num2) {\n            System.out.println(n);\n        }\n\n        //ArrayList -> addiciona automaticamente, sem se preocupar com o tamanho dele\n        ArrayList<String> str = new ArrayList<String>();\n        str.add(\"guilherme\");\n        str.add(\"warley\");\n        str.add(\"brito\");\n        str.add(\"farias\");\n\n        for(String s:str) {\n            System.out.println(s);\n        }\n    }\n}\n\n",
+            "lines": "37"
         }
     ]
 }
