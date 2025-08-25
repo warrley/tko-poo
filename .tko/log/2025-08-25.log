@@ -1,3 +1,10 @@
 2025-08-25 08:04:17, MOVE, v:1, k:budega, mode:PICK
 2025-08-25 08:04:18, EXEC, v:1, k:budega, mode:FULL, rate:100, size:136
 2025-08-25 08:04:20, MOVE, v:1, k:budega, mode:BACK
+2025-08-25 13:26:45, MOVE, v:1, k:lapiseira, mode:DOWN
+2025-08-25 13:38:17, MOVE, v:1, k:lapiseira, mode:PICK
+2025-08-25 13:38:17, EXEC, v:1, k:lapiseira, mode:FREE, size:154
+2025-08-25 13:54:49, EXEC, v:1, k:lapiseira, mode:FULL, rate:7, size:160
+2025-08-25 13:55:14, EXEC, v:1, k:lapiseira, mode:FULL, rate:14, size:160
+2025-08-25 13:55:26, EXEC, v:1, k:lapiseira, mode:FULL, rate:57, size:160
+2025-08-25 13:55:52, EXEC, v:1, k:lapiseira, mode:FULL, rate:100, size:160
