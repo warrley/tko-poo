@@ -4,14 +4,15 @@ database: database
 expanded:
 - primeiras-classes
 - modificadores-de-acesso
-- conteúdo-extra
-- campanha-principal
 - agregação-simples
 - arraylist-i---listas
 - arraylist-ii---arrays-de-null
 - arraylist-iii---crud-composição-e-enum
 - crud-com-mapas-e-vetores
 - herança-i
+- configuracao-e-aquecimento
+- estressados-básicos
+- campanha-principal
 tasks:
   animal: '{rate:100}'
   carro: '{rate:100}'
@@ -32,4 +33,4 @@ flags:
   graph: 1
   xray: 0
 lang: java
-index: lapiseira
+index: arraylist-i---listas

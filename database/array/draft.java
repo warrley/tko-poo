@@ -38,6 +38,67 @@ public class draft {
         //metodos -> .size() = tamanho do array, .get(index) = pega o elemento passado, .remove(index) = remove o elemento passado, .clear() = limpa
 
 
+        //LinkedList -> 
+        LinkedList<Integer> list = new LinkedList<>();
+        list.add(1);
+
+        System.out.println(list);
+    }
+
+    //LikedList -> 
+    
+    static class LinkedList<T> {
+        private Node<T> start;
+
+        public void add(T element) {
+            Node<T> box = new Node<T>(element);
+            this.start = box;
+        }
+
+        public String toString() {
+            StringBuilder builder = new StringBuilder();
+            builder.append("Node [element=").append(start);
+            return builder.toString();
+        }
+    }
+
+    static class Node<T> {
+        private T element;
+        private Node<T> next;
+
+        public Node(T element) {
+            this.element = element;
+            this.next = null;
+        }
+        
+        public Node(T element, Node<T> next) {
+            this.element = element;
+            this.next = next;
+        }
+
+        public T getElement() {
+            return element;
+        }
+
+        public void setElement(T element) {
+            this.element = element;
+        }
+
+        public Node<T> getProximo() {
+            return this.next;
+        }
+
+        public void setProximo(Node<T> next) {
+            this.next = next;
+        }
+
+        @Override
+        public String toString() {
+            StringBuilder builder = new StringBuilder();
+            builder.append("Node [element=").append(element).append(". next=").append(next).append("]");
+            return builder.toString();
+        }
+
     }
 }
 
