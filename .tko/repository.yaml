@@ -26,6 +26,7 @@ tasks:
   budega: '{rate:100}'
   lapiseira: '{rate:100}'
   tabuleiro: '{rate:100}'
+  pula-pula: '{rate:100}'
 flags:
   quests: 0
   tracks: 0
@@ -33,4 +34,4 @@ flags:
   graph: 1
   xray: 0
 lang: java
-index: array
+index: cinema
