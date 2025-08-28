@@ -23,6 +23,7 @@ tasks:
   motoca: '{rate:100}'
   grafite: '{rate:100}'
   motouber: '{rate:100}'
+  charger: '{rate:100}'
   budega: '{rate:100}'
   lapiseira: '{rate:100}'
   tabuleiro: '{rate:100}'
@@ -34,4 +35,4 @@ flags:
   graph: 1
   xray: 0
 lang: java
-index: cinema
+index: arraylist-i---listas
