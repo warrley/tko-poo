@@ -7,12 +7,11 @@ expanded:
 - agregação-simples
 - arraylist-i---listas
 - arraylist-ii---arrays-de-null
-- arraylist-iii---crud-composição-e-enum
-- crud-com-mapas-e-vetores
 - herança-i
 - configuracao-e-aquecimento
 - estressados-básicos
 - campanha-principal
+- arraylist-iii---crud-composição-e-enum
 tasks:
   animal: '{rate:100}'
   carro: '{rate:100}'
@@ -29,6 +28,7 @@ tasks:
   tabuleiro: '{rate:100}'
   pula-pula: '{rate:100}'
   cinema: '{rate:100}'
+  porquinho: '{rate:100}'
 flags:
   quests: 0
   tracks: 0
@@ -36,4 +36,4 @@ flags:
   graph: 1
   xray: 0
 lang: java
-index: enumeracao
+index: estacionamento
