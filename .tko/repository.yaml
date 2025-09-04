@@ -31,6 +31,7 @@ tasks:
   cinema: '{rate:100}'
   porquinho: '{rate:100}'
   tarifas: '{rate:100}'
+  contato: '{rate:100}'
 flags:
   quests: 0
   tracks: 0
@@ -38,4 +39,4 @@ flags:
   graph: 1
   xray: 0
 lang: java
-index: tarifas
+index: cadastro
