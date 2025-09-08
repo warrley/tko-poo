@@ -9,7 +9,6 @@ expanded:
 - arraylist-ii---arrays-de-null
 - herança-i
 - configuracao-e-aquecimento
-- estressados-básicos
 - campanha-principal
 - arraylist-iii---crud-composição-e-enum
 - crud-com-mapas-e-vetores
@@ -32,6 +31,7 @@ tasks:
   porquinho: '{rate:100}'
   tarifas: '{rate:100}'
   contato: '{rate:100}'
+  agiota: '{rate:60}'
 flags:
   quests: 0
   tracks: 0
@@ -39,4 +39,4 @@ flags:
   graph: 1
   xray: 0
 lang: java
-index: agenda
+index: agiota

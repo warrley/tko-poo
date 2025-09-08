@@ -56,3 +56,17 @@
 2025-09-04 18:51:18, EXEC, v:1, k:agenda, mode:FULL, rate:0, size:246
 2025-09-04 18:54:18, EXEC, v:1, k:agenda, mode:FULL, rate:0, size:246
 2025-09-04 19:01:41, EXEC, v:1, k:agenda, mode:FULL, rate:0, size:252
+2025-09-04 19:41:23, MOVE, v:1, k:agiota, mode:DOWN
+2025-09-04 20:11:07, MOVE, v:1, k:agiota, mode:PICK
+2025-09-04 20:11:12, EXEC, v:1, k:agiota, mode:FREE, size:195
+2025-09-04 21:48:08, EXEC, v:1, k:agiota, mode:FULL, rate:30, size:229
+2025-09-04 21:50:09, EXEC, v:1, k:agiota, mode:FREE, size:229
+2025-09-04 22:16:26, EXEC, v:1, k:agiota, mode:FULL, rate:20, size:259
+2025-09-04 22:20:08, EXEC, v:1, k:agiota, mode:FULL, rate:60, size:267
+2025-09-04 22:25:30, EXEC, v:1, k:agiota, mode:FULL, rate:50, size:268
+2025-09-04 22:33:11, EXEC, v:1, k:agiota, mode:FULL, rate:60, size:275
+2025-09-04 22:36:39, EXEC, v:1, k:agiota, mode:FULL, rate:60, size:275
+2025-09-04 22:37:22, EXEC, v:1, k:agiota, mode:FULL, rate:40, size:275
+2025-09-04 22:37:50, EXEC, v:1, k:agiota, mode:FULL, rate:60, size:275
+2025-09-04 22:39:40, EXEC, v:1, k:agiota, mode:FULL, rate:60, size:276
+2025-09-04 22:40:05, MOVE, v:1, k:agiota, mode:BACK
